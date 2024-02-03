@@ -1,1 +1,1 @@
-# 8-Bit-Single-Cycle-CPU
+# 8-Bit-Multi-Cycle-CPU
