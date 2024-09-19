@@ -44,11 +44,6 @@ The CPU is designed to execute a simple instruction set with operations encoded 
 ## Tools Used
 - **Logisim**: Digital logic simulator used for the design and implementation of the CPU.
 
-## Contribution
-- **Tevfik Tarık Alim**: Circuit design and Control Unit design.
-- **Abdullah Kiraz**: Assisted in the overall design.
-- **Kaan Edip Özoğuz**: Resolved issues in the final stages of the design.
-
 ## Conclusion
 This 8-bit CPU design successfully demonstrates basic multi-cycle CPU functionality, and with further modifications, it can handle more complex instructions. The modular structure ensures easy scalability and future expansion.
 
